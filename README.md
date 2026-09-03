@@ -56,5 +56,4 @@ Abaixo está o diagrama de ligações elétricas detalhando a conexão entre o E
 
 ## Organização do Repositório
 
-```text
 Atualmente, o código no GitHub é voltado para testes dos motores e da eletrônica. Ele inclui um script para descobrir o endereço MAC do ESP32-S3, um código para o ESP32 com joystick duplo controlar o robô, e o código embarcado no robô para receber esses comandos via ESP-NOW.
