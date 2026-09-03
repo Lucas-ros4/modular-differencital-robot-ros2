@@ -6,7 +6,7 @@
 
 Um robô móvel diferencial de baixo custo, altamente modular e de fácil fabricação. Este projeto foi projetado para servir como uma plataforma robusta de desenvolvimento para robótica educacional, pesquisa e experimentação prática com ROS 2.
 
-**Modelos 3D (Thingiverse):** [Clique aqui para baixar os arquivos STL no Thingiverse](link-do-thingiverse-aqui)
+**Modelos 3D (Thingiverse):** https://www.thingiverse.com/thing:7404548
 
 ---
 
@@ -57,3 +57,4 @@ Abaixo está o diagrama de ligações elétricas detalhando a conexão entre o E
 ## Organização do Repositório
 
 ```text
+Atualmente, o código no GitHub é voltado para testes dos motores e da eletrônica. Ele inclui um script para descobrir o endereço MAC do ESP32-S3, um código para o ESP32 com joystick duplo controlar o robô, e o código embarcado no robô para receber esses comandos via ESP-NOW.
