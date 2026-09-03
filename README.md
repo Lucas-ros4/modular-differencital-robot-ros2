@@ -1,7 +1,8 @@
 # Modular Differential Robot (ROS 2 Humble & ESP32)
 
-![Foto do Robô Montado](link-da-foto-do-robo-aqui.jpg)
-> *Legenda: Insira aqui uma breve descrição da foto, por exemplo, "Primeira versão do chassi montado".*
+<img width="1600" height="1200" alt="turtleRos" src="https://github.com/user-attachments/assets/ca434f45-f667-44f8-9a16-518134940a63" />
+
+
 
 Um robô móvel diferencial de baixo custo, altamente modular e de fácil fabricação. Este projeto foi projetado para servir como uma plataforma robusta de desenvolvimento para robótica educacional, pesquisa e experimentação prática com ROS 2.
 
@@ -36,8 +37,9 @@ A arquitetura foi pensada para crescer junto com o desenvolvedor:
 
 Abaixo está o diagrama de ligações elétricas detalhando a conexão entre o ESP32-S3, o driver de motor, os encoders e o sistema de alimentação.
 
-![Esquemático Elétrico](link-da-imagem-do-esquematico-aqui.jpg)
-> *Dica: Você pode usar softwares como Fritzing ou KiCad para gerar e exportar a imagem do esquemático.*
+<img width="1122" height="629" alt="turtleRos" src="https://github.com/user-attachments/assets/4f84507b-f76a-45b6-81af-dfd4b04b1a30" />
+
+[TurtleRos.pdf](https://github.com/user-attachments/files/31802662/TurtleRos.pdf)
 
 ---
 
